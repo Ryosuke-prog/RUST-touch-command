@@ -2,7 +2,7 @@
 
 
 # How to build
-The built binary will be installed in the /usr/local/bin/ directory.
+The built binary will be installed in your /usr/local/bin/ directory.
 ```bash
 git clone https://github.com/Ryosuke-prog/RUST-touch-command.git
 cd RUST-touch-command
