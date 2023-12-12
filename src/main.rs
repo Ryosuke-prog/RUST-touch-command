@@ -10,7 +10,7 @@ fn main() -> io::Result<()> {
     // Setup and parse command line arguments using clap.
     let matches = App::new("touch")
         .version("1.0")
-        .author("Your Name")
+        .author("Unixtech-06")
         .about("Emulates the touch command")
         .arg(Arg::with_name("FILE")
              .help("Sets the input file to use")
